@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/558301821/79a77bfd-2e26-4dfc-be55-18b10f2ab6ae" width="1000" height="100">
+<img src="https://repository-images.githubusercontent.com/558301821/79a77bfd-2e26-4dfc-be55-18b10f2ab6ae" width="1000" height="200">
 
 # Репозиторий с проектами, выполненными в рамках учебного курса Яндекс.Практикум Data Science 
 
