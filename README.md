@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/558301821/79a77bfd-2e26-4dfc-be55-18b10f2ab6ae" width="1000" height="300">
+<img src="https://rating-runeta2021.ru/wp-content/uploads/2022/01/f73322ed95450f64df7156706fc01091.jpg" width="1000" height="300">
 
 # Репозиторий с проектами, выполненными в рамках учебного курса Яндекс.Практикум Data Science 
 
