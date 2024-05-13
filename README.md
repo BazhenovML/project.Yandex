@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/recommenders-team/artwork/main/color/recommenders_color.svg](https://repository-images.githubusercontent.com/558301821/79a77bfd-2e26-4dfc-be55-18b10f2ab6ae)" width="800">
+<img src="https://repository-images.githubusercontent.com/558301821/79a77bfd-2e26-4dfc-be55-18b10f2ab6ae" width="800">
 
 # Репозиторий с проектами, выполненными в рамках учебного курса Яндекс.Практикум Data Science 
 
