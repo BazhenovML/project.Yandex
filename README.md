@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/recommenders-team/artwork/main/color/recommenders_color.svg" width="800">
+
 # Репозиторий с проектами, выполненными в рамках учебного курса Яндекс.Практикум Data Science 
 
 |Название проекта|Описание|Навыки и библиотеки|
